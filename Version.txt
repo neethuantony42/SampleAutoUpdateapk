@@ -1,2 +1,2 @@
 Version Code = 2;
-Version name = 2.1;
+Version name = 2.2;
